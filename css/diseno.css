@@ -1,0 +1,73 @@
+body{
+    background-image: url("../iconos y fondo/Fondo.gif");
+    background-size: cover;
+    overflow-y: hidden;
+    overflow-x: hidden;
+}
+.barra-email{
+    align-content: center;
+    
+    position: absolute;
+    top: 20em;
+    left:15em;
+    width: 50em;
+    height: 10em;
+
+    
+    
+}
+
+.enlace{
+    color:white;
+}
+.targeta{
+    position: absolute;
+    top:0.5em;
+    left:66em;
+   
+
+
+}
+
+.titulo{
+    position: absolute;
+    top: 2.5em;
+    left: 7.9em;
+    font-family: 'Bebas Neue', sans-serif;
+    color:white;
+    font-size:66px;
+    
+    
+}
+
+.subtitulo{
+    position: absolute;
+    top: 6em;
+    left: 10em;
+    font-family: 'Bebas Neue', sans-serif;
+    color:rgb(146, 142, 142);
+    font-size:44px;
+}
+.bi{
+    color: goldenrod;
+}
+
+.botonenviar{
+    background-color:black;
+    border-color: black;
+    transition: ease;
+}
+.botonenviar:hover{
+    color:white;
+    background-color: white;
+    border-color: black;
+
+    
+}
+.Derechos{
+    font-size: medium;
+    font-style: italic;
+    color: grey;
+    position: absolute;
+    top:37em;
+}
